@@ -29,3 +29,8 @@ https://developer.android.com/jetpack/androidx/releases/hilt
 https://www.raywenderlich.com/6729-android-jetpack-architecture-components-getting-started
 
 https://github.com/androiddevnotes/awesome-android-kotlin-apps
+
+
+https://www.tutorialkart.com/android-jetpack-compose/button-height/
+
+https://www.theinsaneapp.com/2021/08/android-jetpack-compose-tutorials.html
