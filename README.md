@@ -49,3 +49,8 @@ https://www.answertopia.com/book-toc/jetpack-compose-essentials/
 
 https://www.theinsaneapp.com/2021/08/jetpack-compose-sample-examples-projects-and-android-apps.html
 
+https://androidexample365.com/tag/jetpack-compose/
+
+https://p.codekk.com/detail/Android/vinaygaba/Learn-Jetpack-Compose-By-Example
+
+https://alexzh.com/
