@@ -38,3 +38,14 @@ https://www.theinsaneapp.com/2021/08/android-jetpack-compose-tutorials.html
 https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples
 
 https://johncodeos.com/category/tutorials/android/
+
+https://wise4rmgod.github.io/Jetpack-Compose-Tutorial/#/README
+
+
+https://rrtutors.com/tutorials/jetpack-compose-basic-tutorial
+
+https://www.answertopia.com/book-toc/jetpack-compose-essentials/
+
+
+https://www.theinsaneapp.com/2021/08/jetpack-compose-sample-examples-projects-and-android-apps.html
+
