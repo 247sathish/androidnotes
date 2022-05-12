@@ -40,6 +40,9 @@ https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples
 https://johncodeos.com/category/tutorials/android/
 
 >>>>>> https://wise4rmgod.github.io/Jetpack-Compose-Tutorial/#/README
+>>>>>> https://developer.android.com/jetpack/compose/documentation
+>>>>>> https://github.com/247sathish/compose-samples
+>>>>>> https://developer.android.com/jetpack/compose
 
 
 https://rrtutors.com/tutorials/jetpack-compose-basic-tutorial
