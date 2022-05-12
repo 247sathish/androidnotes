@@ -43,6 +43,8 @@ https://johncodeos.com/category/tutorials/android/
 >>>>>> https://developer.android.com/jetpack/compose/documentation
 >>>>>> https://github.com/247sathish/compose-samples
 >>>>>> https://developer.android.com/jetpack/compose
+>>>>>> https://cs.android.com/
+>>>>>> https://github.com/247sathish/Why-Not-Compose
 
 
 https://rrtutors.com/tutorials/jetpack-compose-basic-tutorial
