@@ -64,3 +64,6 @@ https://p.codekk.com/detail/Android/vinaygaba/Learn-Jetpack-Compose-By-Example
 https://alexzh.com/
 
 https://github.com/skydoves/android-developer-roadmap
+
+
+https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
