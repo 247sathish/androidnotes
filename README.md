@@ -67,3 +67,6 @@ https://github.com/skydoves/android-developer-roadmap
 
 
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+
+
+**** https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md#android-projects ****
