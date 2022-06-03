@@ -52,6 +52,8 @@ https://johncodeos.com/category/tutorials/android/
 
 https://rrtutors.com/tutorials/jetpack-compose-basic-tutorial
 
+https://maven.google.com/web/index.html?#com.google.mediapipe:facemesh
+
 https://www.answertopia.com/book-toc/jetpack-compose-essentials/
 
 
