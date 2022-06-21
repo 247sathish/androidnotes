@@ -77,3 +77,6 @@ https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-
 
 
 https://medium.com/@davegord86/10-best-face-filter-sdks-compared-updated-2020-9ca536b7a0e7
+
+
+https://www.youtube.com/channel/UCjOul1dkbCY-EukPDI97CCQ/featured
