@@ -84,3 +84,5 @@ https://www.youtube.com/channel/UCjOul1dkbCY-EukPDI97CCQ/featured
 https://automationstepbystep.com/
 
 https://reqres.in/
+
+https://www.youtube.com/c/LearnAutomationOnline/playlists
