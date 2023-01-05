@@ -93,3 +93,6 @@ https://www.youtube.com/watch?v=JxmozhBzzcg
 https://github.com/mrgloom/Face-Swap
 
 https://github.com/GDGAhmedabad/Awesome-Learning-Resources/blob/master/android/Useful_links.md
+
+
+https://www.programming-books.io/essential/android/
